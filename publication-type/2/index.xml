@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Pedro Henrique</title>
-    <link>https://pedrohvbsilva.github.io/publication/</link>
-      <atom:link href="https://pedrohvbsilva.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>2 | Pedro Henrique</title>
+    <link>https://pedrohvbsilva.github.io/publication-type/2/</link>
+      <atom:link href="https://pedrohvbsilva.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro H. V. B. da Silva · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pedrohvbsilva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://pedrohvbsilva.github.io/publication/</link>
+      <title>2</title>
+      <link>https://pedrohvbsilva.github.io/publication-type/2/</link>
     </image>
     
     <item>
@@ -40,29 +40,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://pedrohvbsilva.github.io/publication/ieee-lat/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://pedrohvbsilva.github.io/publication/ieee-lat/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Computational Analysis of a Bilevel Decomposition for MPC of Resource Constrained Dynamic Systems</title>
-      <link>https://pedrohvbsilva.github.io/publication/sbai-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://pedrohvbsilva.github.io/publication/sbai-2019/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
